@@ -1,8 +1,4 @@
-# App para estoque de
+# App para gerenciar estoque 
 
 > Aplicativo que estou desenvolvendo enquanto estudo sobre React-native. 
 
-**Trabalhando em:**
-
-> Módulo de Recursos
-- Cadastrar fornecedor
